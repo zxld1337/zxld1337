@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **slevi1001@gmail.com**
 
-- 📄 Know about my experiences [storage Application for a Multicompany (in c# .net)](storage Application for a Multicompany (in c# .net))
+- 📄 Know about my experiences **storage Application for a Multicompany (in c# .net)**
 
 - ⚡ Fun fact **I think I can kinda code**
 
