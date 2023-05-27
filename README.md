@@ -18,8 +18,8 @@
 
 - 📫 How to reach me **slevi1001@gmail.com**
 
-- 📄 Know about my experiences 
-- **storage Application for a Multicompany (in c# .net)**
+- 📄 Know about my experiences:
+   *storage Application for a Multicompany (in c# .net)*
 
 
 <h3 align="left">Connect with me:</h3>
