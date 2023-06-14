@@ -1,6 +1,5 @@
 
 <h1 align="center">🪐  Silkó Levente  🪐</h1>
-<h3 align="center">A ??? developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
@@ -8,11 +7,7 @@
 
 - 🔭 I’m currently working on **Mini Naplo v3**
 
-- 🌱 I’m currently learning **flutter, dart**
-
-- 🙄 Want to learn **flutter bloc, go lang**
-
-- 👨‍💻 All of my projects are available on [GitHub](GitHub)
+- 🌱 I’m currently learning **flutter, dart, .Net**
 
 - 💬 Ask me about **python, c#, flutter, getx**
 
