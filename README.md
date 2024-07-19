@@ -5,18 +5,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-- 🔭 I’m currently working on **Mini Naplo v3**
+- 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **flutter, dart, .Net**
-
-- 💬 Ask me about **python, c#, flutter, getx**
+- 🌱 I’m currently learning **ASP.Net Core, Azure, SignalR**
 
 - 📫 How to reach me **slevi1001@gmail.com**
 
 - 📄 Know about my experiences: <br>
    *storage Application for a Multicompany (in c# .net)*
 
-
+  
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/green_r6s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="green_r6s" height="30" width="40" /></a>
